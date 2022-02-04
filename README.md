@@ -1,4 +1,4 @@
-# sonar-dashboard-plugin
+# sonar-dashboard-plugin [![.github/workflows/maven.yml](https://github.com/guillain/sonar-dashboard-plugin/actions/workflows/maven.yml/badge.svg)](https://github.com/guillain/sonar-dashboard-plugin/actions/workflows/maven.yml)
 
 Dashboard plugin for SonarQube.
 
