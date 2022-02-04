@@ -29,7 +29,8 @@ public class DashboardPageDefinition implements PageDefinition {
   public void define(Context context) {
     context
       .addPage(Page.builder("dashboard/admin_page")
-        .setName("Dashboard")
+        .setName("Dashboard plugin")
+        .setAdmin(true)
         .build());
   }
 }
