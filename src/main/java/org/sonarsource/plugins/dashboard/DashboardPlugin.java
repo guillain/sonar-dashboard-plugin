@@ -36,8 +36,6 @@ public class DashboardPlugin implements Plugin {
 
   @Override
   public void define(Context context) {
-    context
-      .addExtensions(DashboardMetrics.class, SetSizeOnFilesSensor.class, ComputeSizeAverage.class, ComputeSizeRating.class);
-
+    context.addExtensions(DashboardMetrics.class, SetSizeOnFilesSensor.class, ComputeSizeAverage.class, ComputeSizeRating.class);
   }
 }
