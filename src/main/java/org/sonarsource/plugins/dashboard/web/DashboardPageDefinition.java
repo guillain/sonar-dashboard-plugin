@@ -30,7 +30,6 @@ public class DashboardPageDefinition implements PageDefinition {
     context
       .addPage(Page.builder("dashboard/admin_page")
         .setName("Dashboard")
-        .setAdmin(true)
         .build());
   }
 }
