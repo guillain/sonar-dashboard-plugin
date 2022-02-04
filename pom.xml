@@ -5,7 +5,7 @@
   <groupId>org.sonarsource.plugins.dashboard</groupId>
   <artifactId>sonar-dashboard-plugin</artifactId>
   <packaging>sonar-plugin</packaging>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
 
   <name>Dashboard Plugin for SonarQube 8.x</name>
   <description>Plugin for SonarQube which provide insight reports for admin usage</description>

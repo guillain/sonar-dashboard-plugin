@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="${1:-1.0.0}"
+VERSION="${1:-1.0.1}"
 BUILD_DIR="./build"
 
 if [ ! -d ${BUILD_DIR} ]; then mkdir build; fi
